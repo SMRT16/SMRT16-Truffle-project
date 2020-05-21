@@ -1,10 +1,18 @@
+
 # Welcome to SMRT16!
 
 ![SMRT16 LOGO](https://smrt16.com/assets/img/smrt16-with-text-logo.png)
 SMRT16 project is a practical implementation of **Decentralized Unmanaged Organization**.
 
-*SMRT16 is live in Ethereum mainnet at 0xDAbB0C3f9A190b6fe4dF6cb412Ba66C3Dd3e2AD1*
-[Read the code of the Smart Contract on Etherscan](https://etherscan.io/address/0xdabb0c3f9a190b6fe4df6cb412ba66c3dd3e2ad1#readContract)
+> *SMRT16 is live in Ethereum mainnet at 0xDAbB0C3f9A190b6fe4dF6cb412Ba66C3Dd3e2AD1*
+> [Read the code of the Smart Contract on Etherscan](https://etherscan.io/address/0xdabb0c3f9a190b6fe4df6cb412ba66c3dd3e2ad1#readContract)
+> 
+> *SMRT16 Profit Sharing is live in Ethereum mainnet at 0xF0931cb3DCF6BeA3375779B531FECebb8f964259*
+> [Read the code of the Smart Contract on Etherscan](https://etherscan.io/address/0xF0931cb3DCF6BeA3375779B531FECebb8f964259#readContract)
+> 
+> *SMRT16 Accumulator is live in Ethereum mainnet at 0x4F178102386e579759deACdec4673a5aF95C159d*
+> [Read the code of the Smart Contract on Etherscan](https://etherscan.io/address/0x4F178102386e579759deACdec4673a5aF95C159d#readContract)
+ 
 
 The idea of Decentralized Unmanaged Organization is about that there are some businesses possible which operate completely on-chain and make profit absolutely without any external management.
 

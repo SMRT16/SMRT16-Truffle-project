@@ -33,15 +33,19 @@ It works the following way: every project participant has his own "PersonalSMRT1
 
 With this address the user becomes an agent of the project and now he can invite other people to buy SMRT16 tokens by paying ETH to his personal address.
 
-In this case the agent gets up to half of every sale transaction of his 1st level referrals.
+In this case the agent gets a referral commission or marketing bonus from unlimited sale transaction done by him him through his Personal SMRT16 address or by his referrals.
 
-There are four levels of referrals. Every next level of referrals has the half of the previous level.
+There are four levels of referrals bonuses. General rule is that, E]every next level of referrals bonus has the half the amount of bonuses of the previous level, so:
 
-This looks like 1/2, 1/4, 1/8 and 1/16 for the each level of the original transaction amount.
+ - 1st level referral reward is 50%   or 1/2  of the transaction.
+ - 2nd level referral reward is 25%   or 1/4  of the transaction.
+ - 3rd level referral reward is 12.5% or 1/8  of the transaction.
+ - 4th level referral reward is 6.25% or 1/16 of the transaction.
 
-All together it makes that 15/16 of the token price are spent to pay for the marketing efforts of the project investors.
 
 > Note: everything paid in ETH instantly.
+
+All together it makes that 15/16 of the token price are spent to pay for the marketing efforts of the project investors.
 
 The remaining 1/16 of the token price, together with any other incomes goes to "Profit Accumulator SMRT16" address and paid out as dividends at the end of every month.
 

@@ -1,5 +1,6 @@
 
 # Welcome to SMRT16!
+Ethereum and Coming soon Tron DApp
 
 ![SMRT16 LOGO](https://smrt16.com/assets/img/smrt16-with-text-logo.png)
 SMRT16 project is a practical implementation of **Decentralized Unmanaged Organization**.
